@@ -7,5 +7,5 @@ def  display_board
   puts "-----------"
   puts "   1   1   "
 
-  
+
 end
